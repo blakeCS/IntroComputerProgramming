@@ -5,6 +5,4 @@ kramdown:
   parse_block_html: true
 
 
-layout: default
-title: Home
-navigation_weight: 1
+
