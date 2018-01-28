@@ -15,7 +15,7 @@ public class Add10
 //Ignore this code-----------------------------------------------------------------------------------------------
   public static void main(String args[]){
   Add10 a = new Add10();
-  l.run();
+  a.run();
   }
 } 
 
