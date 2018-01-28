@@ -1,10 +1,10 @@
 # Belongs at: /_data/navigation.yml
 
 - title: Home
-  url: /
+  url: /index.md
 
-- title: Group of Things
-  url: /group/
+- title: Methods
+  url: Methods.md
   sublinks:
     - title: Sub-item 1
       url: /group/si1
