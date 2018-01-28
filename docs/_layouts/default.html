@@ -61,23 +61,28 @@
         color: #ffcc00;
         position: absolute;
         z-index: 4;
-        left: -75px;
+        width: 200px;
+        left: -100px;
         text-align: center;
         transition: opacity .1s;
         box-sizing: border-box;
+        opacity: 0;
       }
 
       .linePin>.pinDate {
         top: -24px;
-        opacity: 0;
       }
 
       .linePin>.pinLabel {
         top: 20px;
       }
 
-      .linePin:hover>.pinDate {
+      .linePin:hover>.pinDate, .linePin:hover>.pinLabel {
         opacity: 1;
+      }
+      
+      .linePin>.pinDate:nth-last-child(1) {
+       opacity: 1; 
       }
     </style>
 
