@@ -21,7 +21,7 @@
   * [Option 1](TBD)
   * [Option 2](TBD)
   * [Option 3](TBD)
-* [Exercise 1](../U2%20Methods/Method%20Anatomy/Exercises/PrintJava.java) &nbsp;&nbsp; [Exercise 1 Tester](../TBD)
+* [Exercise 1](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Method%20Anatomy/Exercises/PrintJava.java) &nbsp;&nbsp; [Exercise 1 Tester](../TBD)
 
 </details>
 
@@ -53,7 +53,7 @@
   * [Option 1](TBD)
   * [Option 2](TBD)
   * [Option 3](TBD)
-* [Exercise 1](../U2%20Methods/Parameters/Exercises/Add10.java) &nbsp;&nbsp; [Exercise 1 Tester](../U2%20Methods/Parameters/Exercises/Add10Tester.java)
+* [Exercise 1](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Parameters/Exercises/Add10.java) &nbsp;&nbsp; [Exercise 1 Tester](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Parameters/Exercises/Add10Tester.java)
 
 </details>
 
