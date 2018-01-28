@@ -32,6 +32,9 @@ Lab Files:
 
 </details>
 
+[**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3162)|
+:--:|
+
 ***
 ## Cryptocurrency Interlude
 After researching cryptocurrency, Students will create a structure to store and manipulate the information necessary to create a digital currency.  
@@ -113,7 +116,6 @@ Lab Files:
 <details>
  <summary>Resources
  </summary>
- 4
  
  * This lesson will be updated by Feb 14.
 
