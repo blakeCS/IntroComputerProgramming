@@ -5,9 +5,8 @@ Insert timeline here
 
 ## Anatomy of a Method
 <details>
- {::options parse_block_html="false" /}
- <summary>Resources</summary>
- {::options parse_block_html="true" /}
+ <summary>Resources
+ </summary>
  
 * [Slides](https://drive.google.com/open?id=1w1CslBeWrUOoMpjy-n8wgeZJNHFzaKaQ-Se9YHlfVeQ)
 * [Video](TBD)
