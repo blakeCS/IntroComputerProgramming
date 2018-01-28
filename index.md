@@ -1,5 +1,5 @@
-#Introduction to CS
+# Introduction to CS
 
-##Methods
+## Methods
 
 other stuff
