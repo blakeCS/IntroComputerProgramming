@@ -22,7 +22,14 @@ A Java method is a collection of statements that are grouped together to perform
   * [Methods (Black Box)](https://drive.google.com/file/d/1rMGjRgU2GXU3lW-QnQcIsk_Yw0jBfYqA/view)
   * [Method Bodies](https://drive.google.com/file/d/1EVegNPoPdHLdyaSEthn4Nx7alDVAbUAI/view)
 * [Lab A](https://docs.google.com/document/d/1fnK2u3tvShhp4paMYfMKafk0i0PIlMWGBhSYjTeC9Kg/edit?usp=sharing)
-[Exercise 1](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Method%20Anatomy/Exercises/PrintJava.java) 
+
+Lab Files:
+
+Java File | Tester
+:--:|:--:
+[LineBreak](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Method%20Anatomy/Examples/LineBreak.java) | n/a
+---|---
+[PrintJava](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Method%20Anatomy/Exercises/PrintJava.java) | n/a
 
 </details>
 
@@ -57,7 +64,18 @@ A parameter is a value that you can pass to a method in Java. Then the method ca
   * [How to use Methods that take Parameters in Java](http://www.dummies.com/programming/java/how-to-use-methods-that-take-parameters-in-java/)
   * [Java Methods](https://www.tutorialspoint.com/java/java_methods.htm)
 * [Lab A](https://docs.google.com/document/d/102d6wQqq2kzDpbMmbANzL1_v0KNv2KYyTpnU3azzFE0/edit?usp=sharing)
-[Exercise 1](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Parameters/Exercises/Add10.java) | [Exercise 1 Tester](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Parameters/Exercises/Add10Tester.java)
+
+Lab Files:
+
+Java File | Tester
+:--:|:--:
+[Hello](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Parameters/Examples/Hello.java) | n/a
+---|---
+[Sum](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Parameters/Examples/Sum.java | n/a
+---|---
+[Add10](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Parameters/Exercises/Add10.java) | [Add10Tester](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Parameters/Exercises/Add10Tester.java)
+---|---
+[Madlib](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Parameters/Exercises/Madlib.java) | [MadlibTester](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Parameters/Exercises/MadlibTester.java)
 
 </details>
 
