@@ -1,13 +1,13 @@
 # Methods
 
-1. Anatomy of a Method - January 30th
-2. Cryptocurrency Interlude - February 1st
-3. Parameters - February 5th
-4. Return Statements - February 8th
-5. Scope - February 13th
-6. Access - February 16th
-7. String Methods - February 20th
-8. Crypto Kitties - February 27th
+1. Anatomy of a Method - Jan 30th
+2. Cryptocurrency Interlude - Feb 1st
+3. Parameters - Feb 5th
+4. Return Statements - Feb 8th
+5. Scope - Feb 13th
+6. Access - Feb 16th
+7. String Methods - Feb 20th
+8. Crypto Kitties - Feb 27th
 
 
 ## Anatomy of a Method
