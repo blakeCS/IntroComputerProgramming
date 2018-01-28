@@ -11,4 +11,11 @@ public class Add10
     {
         // Fill this in to print the result to the console
     }
+    
+//Ignore this code-----------------------------------------------------------------------------------------------
+  public static void main(String args[]){
+  Add10 a = new Add10();
+  l.run();
+  }
+} 
 }
