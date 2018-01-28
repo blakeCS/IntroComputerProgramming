@@ -2,7 +2,7 @@
   * 
   * You should take some time to play with the code.  Try changing the following items; 
   * compiling and running your program after each one:
-  * 1. Change the values of the arguments of sum on line 15 and 16.
+  * 1. Change the values of the arguments of sum on line 16 and 17.
   * 2. Add another method call to the run method.
   * 3. Add a third parameter so that sum accepts three ints and adds them together.
   * Make sure to update the comment and method call to match.
