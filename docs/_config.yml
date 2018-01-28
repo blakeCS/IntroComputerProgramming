@@ -1,6 +1,5 @@
 theme: jekyll-theme-midnight
 title: Computer Programming Spring 2018
-markdown: redcarpet
-redcarpet:
-  extensions:
-    - lax_spacing
+markdown: kramdown
+kramdown:
+  parse_html_block: true
