@@ -34,6 +34,7 @@ Lab Files:
 
 
 [**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3162)
+[**Submit Lab**](https://blake.instructure.com/courses/1757/assignments/64262?module_item_id=128341)
 
 ***
 ## Cryptocurrency Interlude
@@ -81,6 +82,8 @@ Lab Files:
 [Madlib](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Parameters/Exercises/Madlib.java) | [MadlibTester](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Parameters/Exercises/MadlibTester.java)
 
 </details>
+
+[**Submit Lab**](https://blake.instructure.com/courses/1757/assignments/65150)
 
 ***
 ## Return Statements - Incomplete
