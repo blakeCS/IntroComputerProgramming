@@ -25,10 +25,9 @@ A Java method is a collection of statements that are grouped together to perform
 
 Lab Files:
 
-Java File | Tester
+**Java File** | **Tester**
 :--:|:--:
 [LineBreak](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Method%20Anatomy/Examples/LineBreak.java) | n/a
----|---
 [PrintJava](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Method%20Anatomy/Exercises/PrintJava.java) | n/a
 
 </details>
@@ -67,14 +66,11 @@ A parameter is a value that you can pass to a method in Java. Then the method ca
 
 Lab Files:
 
-Java File | Tester
+**Java File** | **Tester**
 :--:|:--:
 [Hello](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Parameters/Examples/Hello.java) | n/a
----|---
-[Sum](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Parameters/Examples/Sum.java | n/a
----|---
+[Sum](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Parameters/Examples/Sum.java) | n/a
 [Add10](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Parameters/Exercises/Add10.java) | [Add10Tester](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Parameters/Exercises/Add10Tester.java)
----|---
 [Madlib](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Parameters/Exercises/Madlib.java) | [MadlibTester](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Parameters/Exercises/MadlibTester.java)
 
 </details>
