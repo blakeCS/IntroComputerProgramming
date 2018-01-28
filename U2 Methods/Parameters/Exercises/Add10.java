@@ -8,6 +8,7 @@
   */
 public class Add10
 {
+    //Do not change these examples - they match the test cases!
     public void run()
     {
         add10(1);
