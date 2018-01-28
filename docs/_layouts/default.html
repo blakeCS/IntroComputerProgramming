@@ -133,9 +133,12 @@
             // Parse the list entry into timeline components
             var parts = entries[i].innerText.split(' - ');
             if (!parts[1]) { parts[1] = ''; }
+            var link = parts[0].toLowerCase().replace(/ /g,'-')
             
             // Build the timeline elements
-            contents+= '<div class="linePin" style="left: ' 
+            contents+= '<a href="#' 
+              + link 
+              + '"><div class="linePin" style="left: ' 
               + (i*spread) 
               + '%;"><div class="pinLabel">' 
               + parts[0] 
