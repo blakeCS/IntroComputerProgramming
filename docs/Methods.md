@@ -33,8 +33,7 @@ Lab Files:
 </details>
 
 
-|[**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3162)|
-|:--:|
+[**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3162)
 
 ***
 ## Cryptocurrency Interlude
