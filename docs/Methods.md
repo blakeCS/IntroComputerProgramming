@@ -53,6 +53,8 @@ This interlude in programming skills does not introduce new Java content, but wi
 
 </details>
 
+[**Submit Cryptocurrency Interlude**](https://blake.instructure.com/courses/1757/assignments/64960?module_item_id=128685)
+
 ***
 ## Parameters
 Students will be able to explain when to use a parameter in a java program, and create programs using parameters with both numeric and String types.
