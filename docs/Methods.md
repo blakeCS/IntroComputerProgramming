@@ -5,7 +5,8 @@ Insert timeline here
 
 ## Anatomy of a Method
 <details>
-<summary>Resources</summary>
+
+<summary> Resources </summary>
 
 <p>
 
