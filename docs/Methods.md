@@ -34,6 +34,7 @@ Lab Files:
 
 
 [**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3162)
+
 [**Submit Lab**](https://blake.instructure.com/courses/1757/assignments/64262?module_item_id=128341)
 
 ***
