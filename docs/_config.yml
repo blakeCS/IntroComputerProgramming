@@ -1,5 +1,5 @@
 theme: jekyll-theme-midnight
-title: Computer Programming Spring 2018
+title: Computer Programming<br>Spring 2018
 markdown: kramdown
 kramdown:
   parse_block_html: true
