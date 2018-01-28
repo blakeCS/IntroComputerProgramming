@@ -11,7 +11,7 @@
 
 
 ## Anatomy of a Method
-A Java method is a collection of statements that are grouped together to perform an operation.  This lesson covers the structure of a method, giving a vocabulary to each portion of the method signature.
+Students will be able to describe the structure of a Java Method using approrpiate vocabulry to describe the different portions of a method and what they indicate.
 <details>
  <summary>Resources
  </summary>
@@ -34,7 +34,9 @@ Lab Files:
 
 ***
 ## Cryptocurrency Interlude
-Your goal is to research cryptocurrency, and consider how you might create a structure (perhaps a Class, or multiple classes) to store and manipulate the information necessary to create a digital currency.  This interlude in programming skills does not introduce new Java content, but will get you thinking about how Java can be used to represent monetary structures in preparation for the project at the end of this unit.
+After researching cryptocurrency, Students will create a structure to store and manipulate the information necessary to create a digital currency.  
+
+This interlude in programming skills does not introduce new Java content, but will get you thinking about how Java can be used to represent monetary structures in preparation for the project at the end of this unit.
 
 <details>
  <summary>Resources
@@ -50,7 +52,7 @@ Your goal is to research cryptocurrency, and consider how you might create a str
 
 ***
 ## Parameters
-A parameter is a value that you can pass to a method in Java. Then the method can use the parameter as though it were a local variable initialized with the value of the variable passed to it by the calling method.
+Students will be able to explain when to use a parameter in a java program, and create programs using parameters with both numeric and String types.
 
 <details>
  <summary>Resources
@@ -76,82 +78,54 @@ Lab Files:
 </details>
 
 ***
-## Return Statements
+## Return Statements - Incomplete
+
 <details>
  <summary>Resources
  </summary>
  
-* [Slides](https://drive.google.com/open?id=1w1CslBeWrUOoMpjy-n8wgeZJNHFzaKaQ-Se9YHlfVeQ)
-* [Video](TBD)
-* Readings
-  * [Option 1](TBD)
-  * [Option 2](TBD)
-  * [Option 3](TBD)
-* [Exercise 1](../U2%20Methods/Method%20Anatomy/1.2%20Exercises/Add10.java) &nbsp;&nbsp; [Exercise 1 Tester](../U2%20Methods/Method%20Anatomy/1.2%20Exercises/Add10Tester.java)
+ * This lesson will be updated by Feb 2.
+ 
+</details>
+
+***
+## Scope  - Incomplete
+<details>
+ <summary>Resources
+ </summary>
+
+ * This lesson will be updated by Feb 5.
+ 
+</details>
+
+***
+## Access  - Incomplete
+<details>
+ <summary>Resources
+ </summary>
+ 
+ * This lesson will be updated by Feb 10.
+ 
+</details>
+
+***
+## String Methods  - Incomplete
+<details>
+ <summary>Resources
+ </summary>
+ 4
+ 
+ * This lesson will be updated by Feb 14.
 
 </details>
 
 ***
-## Scope
+## Crypto Kitties  - Incomplete
 <details>
  <summary>Resources
  </summary>
  
-* [Slides](https://drive.google.com/open?id=1w1CslBeWrUOoMpjy-n8wgeZJNHFzaKaQ-Se9YHlfVeQ)
-* [Video](TBD)
-* Readings
-  * [Option 1](TBD)
-  * [Option 2](TBD)
-  * [Option 3](TBD)
-* [Exercise 1](../U2%20Methods/Method%20Anatomy/1.2%20Exercises/Add10.java) &nbsp;&nbsp; [Exercise 1 Tester](../U2%20Methods/Method%20Anatomy/1.2%20Exercises/Add10Tester.java)
-
-</details>
-
-***
-## Access
-<details>
- <summary>Resources
- </summary>
+ * This lesson will be updated by Feb 18.
  
-* [Slides](https://drive.google.com/open?id=1w1CslBeWrUOoMpjy-n8wgeZJNHFzaKaQ-Se9YHlfVeQ)
-* [Video](TBD)
-* Readings
-  * [Option 1](TBD)
-  * [Option 2](TBD)
-  * [Option 3](TBD)
-* [Exercise 1](../U2%20Methods/Method%20Anatomy/1.2%20Exercises/Add10.java) &nbsp;&nbsp; [Exercise 1 Tester](../U2%20Methods/Method%20Anatomy/1.2%20Exercises/Add10Tester.java)
-
-</details>
-
-***
-## String Methods
-<details>
- <summary>Resources
- </summary>
- 
-* [Slides](https://drive.google.com/open?id=1w1CslBeWrUOoMpjy-n8wgeZJNHFzaKaQ-Se9YHlfVeQ)
-* [Video](TBD)
-* Readings
-  * [Option 1](TBD)
-  * [Option 2](TBD)
-  * [Option 3](TBD)
-* [Exercise 1](../U2%20Methods/Method%20Anatomy/1.2%20Exercises/Add10.java) &nbsp;&nbsp; [Exercise 1 Tester](../U2%20Methods/Method%20Anatomy/1.2%20Exercises/Add10Tester.java)
-
-</details>
-
-***
-## Crypto Kitties
-<details>
- <summary>Resources
- </summary>
- 
-* [Slides](https://drive.google.com/open?id=1w1CslBeWrUOoMpjy-n8wgeZJNHFzaKaQ-Se9YHlfVeQ)
-* [Video](TBD)
-* Readings
-  * [Option 1](TBD)
-  * [Option 2](TBD)
-  * [Option 3](TBD)
-* [Exercise 1](../U2%20Methods/Method%20Anatomy/1.2%20Exercises/Add10.java) &nbsp;&nbsp; [Exercise 1 Tester](../U2%20Methods/Method%20Anatomy/1.2%20Exercises/Add10Tester.java)
-
 </details>
 
