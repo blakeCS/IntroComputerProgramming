@@ -17,7 +17,7 @@ Students will be able to describe the structure of a Java Method using approrpia
  </summary>
  
 * [Slides](https://docs.google.com/presentation/d/1w1CslBeWrUOoMpjy-n8wgeZJNHFzaKaQ-Se9YHlfVeQ/edit?usp=sharing)
-* [Video - TBD](TBD)
+* [Video](https://drive.google.com/open?id=1KL17JmkOdPD5alwIuEGboezvIFGFci1R)
 * Readings
   * [Methods (Black Box)](https://drive.google.com/file/d/1rMGjRgU2GXU3lW-QnQcIsk_Yw0jBfYqA/view)
   * [Method Bodies](https://drive.google.com/file/d/1EVegNPoPdHLdyaSEthn4Nx7alDVAbUAI/view)
@@ -66,7 +66,7 @@ Students will be able to explain when to use a parameter in a java program, and 
  </summary>
  
 * [Slides](https://drive.google.com/open?id=1w1CslBeWrUOoMpjy-n8wgeZJNHFzaKaQ-Se9YHlfVeQ)
-* [Video - TBD](TBD)
+* [Video](https://drive.google.com/open?id=1Yc2P5ZpoRYKCXumAV0PsBQmiSrYh3IG6)
 * Readings. NOTE: I highly suggest using this lesson's readings as supplemental material, not the main event.
   * [What is Actually Passed to a Method?](https://mathbits.com/MathBits/Java/Methods/PassingMethods.htm)
   * [How to use Methods that take Parameters in Java](http://www.dummies.com/programming/java/how-to-use-methods-that-take-parameters-in-java/)
