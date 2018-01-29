@@ -4,9 +4,9 @@
   * Note that the % "mod" operator computes remainders, so 17 % 10 is 7.
   * 
   * Examples:
-  * lastDigit(7, 17) → true
-  * lastDigit(6, 17) → false
-  * lastDigit(3, 113) → true
+  * sameDigit(7, 17) → true
+  * sameDigit(6, 17) → false
+  * sameDigit(3, 113) → true
   * 
   * 
   * @author YOUR NAME
