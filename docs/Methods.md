@@ -87,7 +87,8 @@ Lab Files:
 </details>
 
 [**Submit Lab**](https://blake.instructure.com/courses/1757/assignments/65150)
-[Check for Understanding](https://blake.instructure.com/courses/1757/quizzes/3192)
+
+[**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3192)
 ***
 ## Return Statements - Incomplete
 
