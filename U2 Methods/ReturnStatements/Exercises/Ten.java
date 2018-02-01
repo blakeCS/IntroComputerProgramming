@@ -1,5 +1,5 @@
 /** This class is an exercise to be completed.  Edit the code only in the method makes10 such that 
-  * Given 2 ints, a and b, it returns true if one if them is 10 or if their sum is 10.
+  * Given 2 ints, a and b, it returns true if one of them is 10 or if their sum is 10.
   * 
   * Examples:
   * makes10(9, 10) → true
@@ -20,7 +20,7 @@ public class Ten {
     System.out.println("Test sameDigit");
     System.out.println(makes10(9,10));   // true
     System.out.println(makes10(5, 5));   // true
-    System.out.println(makes10(2, 5)); // false
+    System.out.println(makes10(2, 5));   // false
     
   }
   
