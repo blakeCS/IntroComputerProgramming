@@ -26,12 +26,7 @@ public class Ten {
   
   //Write your code here.  Create the whole method statement includng the signature and the methody body.
   //Method: makes10
-  public boolean makes10(int a, int b){
-    boolean x = (a == 10);
-    boolean y = (b == 10);
-    boolean z = ((a+b) == 10);
-    return x || y || z;
-  }
+
 
   
   //Ignore this code-----------------------------------------------------------------------------------------------
