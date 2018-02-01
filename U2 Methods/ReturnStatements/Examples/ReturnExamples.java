@@ -40,7 +40,7 @@ public class ReturnExamples {
     
     System.out.println(add10(10));
     
-    System.out.println("Testing Double Number");
+    System.out.println("Testing Multiply");
     int multiplied = multiply(10, 4);
     System.out.println(multiplied);
   }
