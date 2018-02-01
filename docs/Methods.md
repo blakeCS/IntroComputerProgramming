@@ -89,6 +89,7 @@ Lab Files:
 [**Submit Lab**](https://blake.instructure.com/courses/1757/assignments/65150)
 
 [**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3192)
+
 ***
 ## Return Statements
 Students will be able to explain when to use a return statement in a java program, how to write a syntactially correct method signature.  They will also create programs which include methods with return values to solve a problem.
