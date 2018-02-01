@@ -67,7 +67,7 @@ Students will be able to explain when to use a parameter in a java program, and 
  <summary>Resources
  </summary>
  
-* [Slides](https://drive.google.com/open?id=1w1CslBeWrUOoMpjy-n8wgeZJNHFzaKaQ-Se9YHlfVeQ)
+* [Slides](https://drive.google.com/open?id=1baG0Py5K--Dc9hi6bi5wKu0MXPdkocwzx0WkKYCDrR4)
 * [Video](https://drive.google.com/open?id=1Yc2P5ZpoRYKCXumAV0PsBQmiSrYh3IG6)
 * Readings. NOTE: I highly suggest using this lesson's readings as supplemental material, not the main event.
   * [What is Actually Passed to a Method?](https://mathbits.com/MathBits/Java/Methods/PassingMethods.htm)
