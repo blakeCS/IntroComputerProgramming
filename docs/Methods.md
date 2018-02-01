@@ -90,15 +90,35 @@ Lab Files:
 
 [**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3192)
 ***
-## Return Statements - Incomplete
+## Return Statements
+Students will be able to explain when to use a return statement in a java program, how to write a syntactially correct method signature.  They will also create programs which include methods with return values to solve a problem.
 
 <details>
  <summary>Resources
  </summary>
  
- * This lesson will be updated by Feb 2.
- 
+* [Slides](https://docs.google.com/presentation/d/1TGVGv3BEhczH_cSn3ZYjPbbW3YtQvv78oqTrWy8N-0Q/edit?usp=sharing)
+* Video - To Be Uploaded Feb 2
+* Readings. NOTE: I highly suggest using this lesson's readings as supplemental material, not the main event.
+  * [Method Bodies - Return Statements p. 74-75](https://drive.google.com/file/d/1EVegNPoPdHLdyaSEthn4Nx7alDVAbUAI/view)
+  * [Return...This](https://medium.com/java-for-absolute-dummies/return-this-72030e66790a)
+  * [Return Statement Analogy](https://www.quora.com/In-Java-what-is-a-return-statement)
+  * [Java Methods](https://www.tutorialspoint.com/java/java_methods.htm)
+* [Lab A](https://drive.google.com/open?id=1-ZC8yT4iQfUuofUwqbL2mOwj1WiWkw9XEyY31kKMgAg)
+
+Lab Files:
+
+**Java File** | **Tester**
+:--:|:--:
+[ReturnExamples](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/ReturnStatements/Examples/ReturnExamples.java) | n/a
+[Compare](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/ReturnStatements/Exercises/Compare.java) | [TestCompare](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/ReturnStatements/Exercises/TestCompare.java.java)
+[Ten](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/ReturnStatements/Exercises/Ten.java) | [TestTen](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/ReturnStatements/Exercises/TestCompare.java.java)
+
 </details>
+
+[**Submit Lab**](https://blake.instructure.com/courses/1757/assignments/65656)
+
+[**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3198)
 
 ***
 ## Scope  - Incomplete
