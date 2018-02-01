@@ -4,6 +4,7 @@
 2. Cryptocurrency Interlude - Feb 1st
 3. Parameters - Feb 5th
 4. Return Statements - Feb 8th
+5. Interlude: For Loops - Feb 9th
 5. Scope - Feb 13th
 6. Access - Feb 16th
 7. String Methods - Feb 20th
