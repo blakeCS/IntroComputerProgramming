@@ -131,12 +131,11 @@ Students will create functions requiring the control structure of a loop to repe
  </summary>
  
 * [Slides](https://docs.google.com/presentation/d/1i9jfPcmpEpyu3DXNqOoAOx1qh760kJqRnP8ZvvygOJA/edit?usp=sharing)
-* Video - TBD
 * Readings
   * [For Loops in Java with Examples](https://beginnersbook.com/2015/03/for-loop-in-java-with-example/)
   * [Java For Loops](http://www.homeandlearn.co.uk/java/java_for_loops.html)
   * [Loops in Java](http://www.learnjavaonline.org/en/Loops)
-* [Lab A] - UPLOAD HERE
+* [Lab A](https://docs.google.com/document/d/1uVOQkA58GKPLxrexaIJwR_naSnu3MJW3v7kZiCorGq4/edit?usp=sharing)
 
 Lab Files:
 
@@ -151,7 +150,7 @@ Lab Files:
 
 </details>
 
-[**Submit Lab**](UPLOAD HERE)
+[**Submit Lab**](https://blake.instructure.com/courses/1757/assignments/65756)
 
 [**Check for Understanding**](UPLOAD HERE)
 
