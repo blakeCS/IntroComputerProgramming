@@ -152,7 +152,7 @@ Lab Files:
 
 [**Submit Lab**](https://blake.instructure.com/courses/1757/assignments/65756)
 
-[**Check for Understanding**](UPLOAD HERE)
+[**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3202)
 
 ***
 ## Scope  - Incomplete
