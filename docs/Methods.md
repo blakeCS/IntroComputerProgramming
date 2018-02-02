@@ -37,7 +37,7 @@ Lab Files:
 
 [**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3162)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To take this quiz again, there is NOT a second lab.  Instead, join the class Quizlet [here](https://quizlet.com/class/6395014/) and quiz yourself on the material in **Methods and Parameters**.  Once you have completed the Test with 80% or higher, you are elegiable to take the quiz again.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To take this quiz again, there is NOT a second lab.  Instead, join the class Quizlet [here](https://quizlet.com/join/r2wwgK99j) and quiz yourself on the material in **Methods and Parameters**.  Once you have completed the Test with 80% or higher, you are elegiable to take the quiz again.
 
 ***
 ## Cryptocurrency Interlude
@@ -89,6 +89,8 @@ Lab Files:
 [**Submit Lab**](https://blake.instructure.com/courses/1757/assignments/65150)
 
 [**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3192)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To take this quiz again, there is NOT a second lab.  Instead, join the class Quizlet [here](https://quizlet.com/join/r2wwgK99j) and quiz yourself on the material in **Java Perameters**.  Once you have completed the Test with 80% or higher, you are elegiable to take the quiz again.
 
 ***
 ## Return Statements
@@ -153,7 +155,7 @@ Lab Files:
 
 [**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3202)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To take this quiz again, there is NOT a second lab.  Instead, join the class Quizlet (IF you have not done so already) [here](https://quizlet.com/class/6395014/) and quiz yourself on the material in **Java Loops**.  Once you have completed the Test with 80% or higher, you are elegiable to take the quiz again.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To take this quiz again, there is NOT a second lab.  Instead, join the class Quizlet (IF you have not done so already) [here](https://quizlet.com/join/r2wwgK99j) and quiz yourself on the material in **Java Loops**.  Once you have completed the Test with 80% or higher, you are elegiable to take the quiz again.
 
 ***
 ## Scope  - Incomplete
