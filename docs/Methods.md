@@ -37,7 +37,7 @@ Lab Files:
 
 [**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3162)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To take this quiz again, there is NOT a second lab.  Instead, join the class Quizlet [here](https://quizlet.com/join/r2wwgK99j) and quiz yourself on the material in **Methods and Parameters**.  Once you have completed the Test with 80% or higher, you are elegiable to take the quiz again.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To take this quiz again, there is NOT a second lab.  Instead, join the class Quizlet [here](https://quizlet.com/join/r2wwgK99j) and quiz yourself on the material in **Method Vocabulary**.  Once you have completed the Test with 80% or higher, you are elegiable to take the quiz again.
 
 ***
 ## Cryptocurrency Interlude
