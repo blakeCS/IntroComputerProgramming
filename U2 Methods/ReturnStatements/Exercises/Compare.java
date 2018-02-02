@@ -28,8 +28,6 @@ public class Compare {
   
   //Write your code here.  Create the whole method statement includng the signature and the methody body.
   //Method: sameDigit
-
-  }
   
   
   //Ignore this code-----------------------------------------------------------------------------------------------
