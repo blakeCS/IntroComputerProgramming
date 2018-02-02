@@ -4,7 +4,7 @@
 2. Cryptocurrency Interlude - Feb 1st
 3. Parameters - Feb 5th
 4. Return Statements - Feb 8th
-5. Interlude: For Loops - Feb 9th
+5. Interlude: Loops - Feb 9th
 5. Scope - Feb 13th
 6. Access - Feb 16th
 7. String Methods - Feb 20th
@@ -121,6 +121,39 @@ Lab Files:
 [**Submit Lab**](https://blake.instructure.com/courses/1757/assignments/65656)
 
 [**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3198)
+
+***
+## Interlude: Loops
+Students will create functions requiring the control structure of a loop to repeat code segments.  They will differentiate when to use a for loop vs. when to use a while loop.
+
+<details>
+ <summary>Resources
+ </summary>
+ 
+* [Slides](https://docs.google.com/presentation/d/1i9jfPcmpEpyu3DXNqOoAOx1qh760kJqRnP8ZvvygOJA/edit?usp=sharing)
+* Video - TBD
+* Readings
+  * [For Loops in Java with Examples](https://beginnersbook.com/2015/03/for-loop-in-java-with-example/)
+  * [Java For Loops](http://www.homeandlearn.co.uk/java/java_for_loops.html)
+  * [Loops in Java](http://www.learnjavaonline.org/en/Loops)
+* [Lab A] - UPLOAD HERE
+
+Lab Files:
+
+**Java File** | **Tester**
+:--:|:--:
+[For Loops](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Loops/ForLoop.java) | n/a
+[Print500](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Loops/Exercises/Print500.java) | [Print500Tester](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Loops/Exercises/Print500Tester.java)
+[Divisible](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Loops/Exercises/Divisible.java) | [DivisibleTester](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Loops/Exercises/DivisibleTester.java)
+[Countdown](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Loops/Examples/Countdown.java)| n/a
+[CreateMod](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Loops/Exercises/CreateMod.java)| [CreateModTester](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Loops/Exercises/CreateModTester.java)
+
+
+</details>
+
+[**Submit Lab**](UPLOAD HERE)
+
+[**Check for Understanding**](UPLOAD HERE)
 
 ***
 ## Scope  - Incomplete
