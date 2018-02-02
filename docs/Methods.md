@@ -123,6 +123,8 @@ Lab Files:
 
 [**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3198)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To take this quiz again, there is NOT a second lab.  Instead, join the class Quizlet [here](https://quizlet.com/join/r2wwgK99j) and quiz yourself on the material in **Return Statements**.  Once you have completed the Test with 80% or higher, you are elegiable to take the quiz again.
+
 ***
 ## Interlude: Loops
 Students will create functions requiring the control structure of a loop to repeat code segments.  They will differentiate when to use a for loop vs. when to use a while loop.
