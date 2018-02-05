@@ -171,17 +171,24 @@ Students will orally compare/contrast the benefits of local vs. global scoping a
 * [Slides](https://docs.google.com/presentation/d/14ShdgJ9-HTYo7vLjy_e6Pa5-8_EuvhKz5a4P-pl2K8M/edit?usp=sharing)
 * Readings
   * [Local Scope](https://www.cs.umd.edu/~clin/MoreJava/Objects/local.html)
-  * [Java Variable Scope Best Practices]https://study.com/academy/lesson/java-variable-scope-definition-best-practices.html)
+  * [Java Variable Scope Best Practices](https://study.com/academy/lesson/java-variable-scope-definition-best-practices.html)
   * [Java Scope Rules](https://www.techrepublic.com/article/intro-to-oop-java-scope-rules/)
-* [Lab A]
+* [Lab A](https://docs.google.com/document/d/1Ikjz1K1UZk6vGqFWOUa0-SMmT1V0cqb-ZlKic3qbrQc/edit?usp=sharing)
 
 Lab Files:
  
  **Java File** | **Tester**
 :--:|:--:
-
+[InstanceScope](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Scope/Examples/InstanceScope.java)| n/a
+[LocalScope](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Scope/Examples/LocalScope.java)| n/a
+[VariableShadowing](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Scope/Examples/VariableShadowing.java)| n/a
+[MathOperations](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Scope/Exercises/MathOperations.java) |n/a
 
 </details>
+
+[**Submit Lab**](https://blake.instructure.com/courses/1757/assignments/66108/)
+
+[**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3218)
 
 ***
 ## Access  - Incomplete
