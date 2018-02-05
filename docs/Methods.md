@@ -160,13 +160,27 @@ Lab Files:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To take this quiz again, there is NOT a second lab.  Instead, join the class Quizlet (IF you have not done so already) [here](https://quizlet.com/join/r2wwgK99j) and quiz yourself on the material in **Java Loops**.  Once you have completed the Test with 80% or higher, you are elegiable to take the quiz again.
 
 ***
-## Scope  - Incomplete
+## Scope
+
+Students will orally compare/contrast the benefits of local vs. global scoping and give an example of when each should be used using scope vocabulary  after completing a lab.
+
 <details>
  <summary>Resources
  </summary>
 
- * This lesson will be updated by Feb 5.
+* [Slides](https://docs.google.com/presentation/d/14ShdgJ9-HTYo7vLjy_e6Pa5-8_EuvhKz5a4P-pl2K8M/edit?usp=sharing)
+* Readings
+  * [Local Scope](https://www.cs.umd.edu/~clin/MoreJava/Objects/local.html)
+  * [Java Variable Scope Best Practices]https://study.com/academy/lesson/java-variable-scope-definition-best-practices.html)
+  * [Java Scope Rules](https://www.techrepublic.com/article/intro-to-oop-java-scope-rules/)
+* [Lab A]
+
+Lab Files:
  
+ **Java File** | **Tester**
+:--:|:--:
+
+
 </details>
 
 ***
