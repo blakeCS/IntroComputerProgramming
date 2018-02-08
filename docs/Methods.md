@@ -6,8 +6,8 @@
 4. Return Statements - Feb 8th
 5. Interlude: Loops - Feb 9th
 5. Scope - Feb 13th
-6. Access and Conditions - Feb 16th
-7. String Methods - Feb 20th
+6. String Methods - Feb 16th
+7. Access and Conditions - Feb 20th
 8. Crypto Kitties - Feb 27th
 
 
@@ -200,18 +200,16 @@ Students will manipulate strings to develop a system to find strands of DNA.
 
 * [Slides](https://docs.google.com/presentation/d/1UC0y5yFT8BPdbhduqYJa4cUoxdLtRkSRNGPbwLwhDf4/edit?usp=sharing)
 * Readings
-  * []()
-  * []()
-  * []()
+  * [Java String is Special (read 1-2.2)] (https://www.ntu.edu.sg/home/ehchua/programming/java/J3d_String.html)
+  * [The String Class](https://drive.google.com/open?id=0B0XuTmEEO-JhNmxKSmZfb0tfeGo0ZVo4a190dktpWm5sb1Zz)
+  * [Java Strings on CodingBat](http://codingbat.com/doc/java-string-introduction.html)
 * [Lab](https://docs.google.com/document/d/1rRsTcofCMoRHOcn5dXs8VpzhcLvcWWUwXNMiLOwMx-Q/edit?usp=sharing)
 
 Lab Files:
-NO java files.
-
-
+No java files needed.
 </details>
 
-[**Submit Lab**]()
+[**Submit Lab**](https://blake.instructure.com/courses/1757/assignments/66600)
 
 [**Check for Understanding**]()
 
