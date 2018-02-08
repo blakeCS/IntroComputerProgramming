@@ -191,6 +191,31 @@ Lab Files:
 [**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3218)
 
 ***
+## String Methods
+Students will manipulate strings to develop a system to find strands of DNA.
+
+<details>
+ <summary>Resources
+ </summary>
+
+* [Slides](https://docs.google.com/presentation/d/1UC0y5yFT8BPdbhduqYJa4cUoxdLtRkSRNGPbwLwhDf4/edit?usp=sharing)
+* Readings
+  * []()
+  * []()
+  * []()
+* [Lab](https://docs.google.com/document/d/1rRsTcofCMoRHOcn5dXs8VpzhcLvcWWUwXNMiLOwMx-Q/edit?usp=sharing)
+
+Lab Files:
+NO java files.
+
+
+</details>
+
+[**Submit Lab**]()
+
+[**Check for Understanding**]()
+
+***
 ## Access and Conditions  - Incomplete
 
 Students will create objects that work together to share *appropriate* data and hide other information after:
@@ -226,39 +251,7 @@ Lab Files:
 
 ***
 
-## String Methods  - Incomplete
-Students will create objects that work together to share *appropriate* data and hide other information after:
-* Describing the effect of visibility modifiers on methods and data
-* Using control flow logic to make decisions
-* Discussing issues pertaining to the comparison of certain types of data.
 
-<details>
- <summary>Resources
- </summary>
-
-* [Slides]()
-* Readings
-  * [Encapsulation](https://drive.google.com/open?id=1PRYmPF4nQ5gGpDe_eTbSnm1FzNmVSZU4)
-  * [The If Statement](https://drive.google.com/open?id=0B0XuTmEEO-JhdzBGZ09nd1BEdFRxNDRTMk1YOGlkc3NMYmh3)
-  * [Comparing Data](https://drive.google.com/open?id=0B0XuTmEEO-JhZnM3UlY3djFJZ19vaTM3MXY2RXk5SnBOdzc0)
-* [Lab A]()
-
-Lab Files:
- 
- **Java File** | **Tester**
-:--:|:--:
-[File1]()| n/a
-[File2]()| [File2Test]()
-[File3]()| [File3Test]()
-[File4]()| [File4Test]()
-
-</details>
-
-[**Submit Lab**]()
-
-[**Check for Understanding**]()
-
-***
 
 ## Crypto Kitties  - Incomplete
 <details>
