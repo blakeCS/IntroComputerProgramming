@@ -27,7 +27,7 @@ public class Countdown{
     }
       //Ignore this code-----------------------------------------------------------------------------------------------
   public static void main(String args[]){
-  ForLoop test = new ForLoop();
+  Countdown test = new Countdown();
   test.run();
   }
 
