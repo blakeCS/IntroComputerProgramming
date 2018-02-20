@@ -8,7 +8,7 @@
 5. Scope - Feb 13th
 6. Conditional Statements - Feb 20th
 7. String Methods - Feb 25th
-8. Crypto Kitties - Feb 27th
+8. DNA Project - Feb 27th
 
 
 ## Anatomy of a Method
@@ -250,12 +250,12 @@ No java files needed.
 
 
 
-## DNA
+## DNA Project
 <details>
  <summary>Resources
  </summary>
  
- * This lesson will be updated by Feb 18.
+ * This lesson will be updated by Feb 20.
  
 </details>
 
