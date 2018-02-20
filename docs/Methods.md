@@ -251,11 +251,19 @@ No java files needed.
 
 
 ## DNA Project
-<details>
- <summary>Resources
- </summary>
  
- * This lesson will be updated by Feb 20.
- 
-</details>
+Within this assignment, you will be using your understanding of methods to create a program which finds aind prints the Genes found in a string of DNA to the screen.  You will all classes and methods from scratch, but you must use the method names I give you so that your methods can be tested against my testFindingGenes class.
+
+The documentation for the lab is found [here](https://docs.google.com/document/d/1rRsTcofCMoRHOcn5dXs8VpzhcLvcWWUwXNMiLOwMx-Q/edit?usp=sharing).
+
+Your grade will be computed using the following rubric:
+
+**Program (85 pts)** | **Excellent** | **Good** | **Approaching** | **Poor/Incomplete**
+:--:|:--:|:--:|:--:|:--:|
+Program Execution | Program executes correctly with no syntax or runtime errors (25) | | Program executes correctly with minor (easily fixed) errors (8)| Program does not execute (0-1)
+Correct Output | Program displays correct output with no errors and passes all test cases (within Ms. Burton's test class) (25)| Output has minor errors (15-20) | Output has multiple errors (5 - 15) | Output is incorrect (0-5)
+Design of Logic | Program is logically well designed (15-20) | Program has slight logic errors that do not significantly affect the results (10-15) | Program has significant logic errors (5-10) | program is incorrect (0-5)
+Standards | Program is stylistically well designed (9-10) | Few inappropriate design choices (ie. porr variable names, improper indentation) (6-8)| Program includes several inappropriate design chocies (3-5) | Program is poorly written (0-2)
+Documentation | Program is well documented (5) | Missing one required comment (4) | Missing two or more required comments (2-3) | Most or all documentation missing (0-1)
+
 
