@@ -192,7 +192,7 @@ Lab Files:
 
 ***
 
-## Condition Statements
+## Conditional Statements
 
 Students will be able to:
 * write and test conditional expressions using comparison operators, nested, and conditional logic
