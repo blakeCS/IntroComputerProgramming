@@ -6,8 +6,8 @@
 4. Return Statements - Feb 8th
 5. Interlude: Loops - Feb 9th
 5. Scope - Feb 13th
-6. String Methods - Feb 16th
-7. Access and Conditions - Feb 20th
+6. Conditional Statements - Feb 20th
+7. String Methods - Feb 25th
 8. Crypto Kitties - Feb 27th
 
 
@@ -191,6 +191,38 @@ Lab Files:
 [**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3218)
 
 ***
+
+## Condition Statements
+
+Students will be able to:
+* write and test conditional expressions using comparison operators, nested, and conditional logic
+* Give an English description of code to create desired program logic
+
+<details>
+ <summary>Resources
+ </summary>
+
+* [Slides](https://docs.google.com/presentation/d/18aGQjiBVqWGWsWsp2ZpronUVf-1w6Ieqe8asOiX3OaY/edit?usp=sharing)
+* Readings
+  * [The If Statement](https://drive.google.com/open?id=0B0XuTmEEO-JhdzBGZ09nd1BEdFRxNDRTMk1YOGlkc3NMYmh3)
+* [Lab Part 1 - COMPLETE THIS ON PAPER](https://docs.google.com/document/d/14_ct72a8SJLPy0eFZUrgNNUzDWnzPO0Wg25KFBEbkmg/edit?usp=sharing)
+* [Lab Part 2](https://docs.google.com/document/d/1EQ3qr3Ba5Cf9TgZBkMNK3-QHpRf2EZNZ57encj6Zp7I/edit?usp=sharing)
+
+Lab Files:
+ 
+ **Java File** | **Tester**
+:--:|:--:
+[LetterGrade](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Conditionals/LetterGrade.java)| n/a
+[Triangle](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Conditionals/Triangle.java)| [TriangleTester](https://github.com/blakeCS/IntroComputerProgramming/blob/master/U2%20Methods/Conditionals/TriangleTester.java)
+
+</details>
+
+[**Submit Lab**](https://blake.instructure.com/courses/1757/assignments/67460)
+
+[**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3248)
+
+***
+
 ## String Methods
 Students will manipulate strings to develop a system to find strands of DNA.
 
@@ -211,47 +243,14 @@ No java files needed.
 
 [**Submit Lab**](https://blake.instructure.com/courses/1757/assignments/66600)
 
-[**Check for Understanding**]()
-
-***
-## Access and Conditions  - Incomplete
-
-Students will create objects that work together to share *appropriate* data and hide other information after:
-* Describing the effect of visibility modifiers on methods and data
-* Using control flow logic to make decisions
-* Discussing issues pertaining to the comparison of certain types of data.
-
-<details>
- <summary>Resources
- </summary>
-
-* [Slides]()
-* Readings
-  * [Encapsulation](https://drive.google.com/open?id=1PRYmPF4nQ5gGpDe_eTbSnm1FzNmVSZU4)
-  * [The If Statement](https://drive.google.com/open?id=0B0XuTmEEO-JhdzBGZ09nd1BEdFRxNDRTMk1YOGlkc3NMYmh3)
-  * [Comparing Data](https://drive.google.com/open?id=0B0XuTmEEO-JhZnM3UlY3djFJZ19vaTM3MXY2RXk5SnBOdzc0)
-* [Lab A]()
-
-Lab Files:
- 
- **Java File** | **Tester**
-:--:|:--:
-[File1]()| n/a
-[File2]()| [File2Test]()
-[File3]()| [File3Test]()
-[File4]()| [File4Test]()
-
-</details>
-
-[**Submit Lab**]()
-
-[**Check for Understanding**]()
+[**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3220)
 
 ***
 
 
 
-## Crypto Kitties  - Incomplete
+
+## DNA
 <details>
  <summary>Resources
  </summary>
