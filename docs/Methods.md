@@ -235,7 +235,7 @@ Students will manipulate strings to develop a system to find strands of DNA.
   * [Java String is Special (read 1-2.2)](https://www.ntu.edu.sg/home/ehchua/programming/java/J3d_String.html)
   * [The String Class](https://drive.google.com/open?id=0B0XuTmEEO-JhNmxKSmZfb0tfeGo0ZVo4a190dktpWm5sb1Zz)
   * [Java Strings on CodingBat](http://codingbat.com/doc/java-string-introduction.html)
-* [Lab](https://docs.google.com/document/d/1rRsTcofCMoRHOcn5dXs8VpzhcLvcWWUwXNMiLOwMx-Q/edit?usp=sharing)
+* [Lab](https://docs.google.com/document/d/1fjeznPyrX2XZgunHNP_3oj_vBRc2HSaTIIGMypjfgTU)
 
 Lab Files:
 No java files needed.
