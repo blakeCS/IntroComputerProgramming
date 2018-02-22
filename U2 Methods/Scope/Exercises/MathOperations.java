@@ -50,7 +50,7 @@ public class MathOperations{
     
   //Ignore this code-----------------------------------------------------------------------------------------------
   public static void main(String args[]){
-  InstanceScope a = new InstanceScope();
+  MathOperations a = new MathOperations();
   a.run();
   }
 }
