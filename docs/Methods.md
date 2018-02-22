@@ -168,7 +168,7 @@ Students will orally compare/contrast the benefits of local vs. global scoping a
  <summary>Resources
  </summary>
 
-* [Slides](https://docs.google.com/presentation/d/14ShdgJ9-HTYo7vLjy_e6Pa5-8_EuvhKz5a4P-pl2K8M/edit?usp=sharing)
+* [Slides](https://docs.google.com/presentation/d/1bO79K3rz0xbabf-9JWLlNFqLtQksjmuDf7qilfutxwg/edit?usp=sharing)
 * Readings
   * [Local Scope](https://www.cs.umd.edu/~clin/MoreJava/Objects/local.html)
   * [Java Variable Scope Best Practices](https://study.com/academy/lesson/java-variable-scope-definition-best-practices.html)
