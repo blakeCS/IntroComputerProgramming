@@ -249,9 +249,9 @@ No java files needed.
 
 [**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3220)
 
+Yes, there is a quizlet for Strings too!  If you need to retake this quiz, go ahead and use it to study, get 80% or higher on the quiz, and send me a screen shot.  I will then re-open your access to the quiz.
+
 ***
-
-
 
 
 ## DNA Project
