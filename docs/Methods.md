@@ -192,6 +192,8 @@ Lab Files:
 
 [**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3218)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To take this quiz again, there is NOT a second lab.  Instead, join the class Quizlet (IF you have not done so already) [here](https://quizlet.com/join/r2wwgK99j) and quiz yourself on the material in **Java Scope**.  Once you have completed the Test with 80% or higher, you are elegiable to take the quiz again.
+
 ***
 
 ## Conditional Statements
