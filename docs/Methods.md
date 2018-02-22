@@ -230,7 +230,7 @@ To re-take the quiz on conditional statements **complete** the lab if you have n
 ***
 
 ## String Methods
-Students will manipulate strings to develop a system to find strands of DNA.
+Students will identify strings as a unique data type which contains a sequence of ASCII characters,describe characteristics of the string data type, and manipulate strings to generate dynamic output.
 
 <details>
  <summary>Resources
