@@ -6,8 +6,8 @@ public class Palindromes{
   public void run(){
     //Change this string to test whether your palindrome function works.
     String text = "kayak";
-    Boolean x = isPalindrome(text);
-    toUser(x);
+    isPalindrome(text);
+
   }
   
   /**
@@ -30,12 +30,12 @@ public class Palindromes{
    * @param text The text we want to determine if it is a palindrome.
    * @return A boolean of whether or not it was a palindrome.
    */
-  private boolean isPalindrome(String text){
+  private void isPalindrome(String text){
     String reversed = reverse(text);
     if(text.equals(reversed)) {
-      return true;
+       toUser(true);
     } else {
-      return false;
+       toUser(false);
     }
   }
   
