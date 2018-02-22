@@ -10,6 +10,12 @@ public class Palindromes{
     toUser(x);
   }
   
+  /**
+   * This method takes the result from isPalindrome (a boolean) 
+   * and outputs a statement to the user in the console.
+   * 
+   * @param isSame The result of whether a piece of text is a palindrome.
+   */
   public void toUser(boolean isSame){
     if(isSame){
       System.out.println("Your word is a palindrome!");
@@ -24,15 +30,11 @@ public class Palindromes{
    * @param text The text we want to determine if it is a palindrome.
    * @return A boolean of whether or not it was a palindrome.
    */
-  private boolean isPalindrome(String text)
-  {
+  private boolean isPalindrome(String text){
     String reversed = reverse(text);
-    if(text.equals(reversed))
-    {
+    if(text.equals(reversed)) {
       return true;
-    }
-    else
-    {
+    } else {
       return false;
     }
   }
@@ -45,14 +47,14 @@ public class Palindromes{
    */
   private String reverse(String text) {
     String result = "";
-    for(int i = text.length() - 1; i >= 0; i--)
-    {
+    for(int i = text.length() - 1; i >= 0; i--){
       char cur = text.charAt(i);
       result += cur;
     }
     return result;
   }
   
+  // IGNORE THIS CODE ----------------------------------
   public static void main (String args[]){
   Palindromes p = new Palindromes();
   p.run();
