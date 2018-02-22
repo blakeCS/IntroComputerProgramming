@@ -241,7 +241,7 @@ Lab Files:
 No java files needed.
 </details>
 
-[**Submit Lab**](https://blake.instructure.com/courses/1757/assignments/66600)
+[**Submit Lab**](https://blake.instructure.com/courses/1757/assignments/67740)
 
 [**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3220)
 
