@@ -134,6 +134,7 @@ Students will create functions requiring the control structure of a loop to repe
  </summary>
  
 * [Slides](https://docs.google.com/presentation/d/1i9jfPcmpEpyu3DXNqOoAOx1qh760kJqRnP8ZvvygOJA/edit?usp=sharing)
+* [Video](https://drive.google.com/open?id=1lcapERNkK5Mf73CFA8outW7rGtNK3cAJ)
 * Readings
   * [For Loops in Java with Examples](https://beginnersbook.com/2015/03/for-loop-in-java-with-example/)
   * [Java For Loops](http://www.homeandlearn.co.uk/java/java_for_loops.html)
@@ -169,6 +170,7 @@ Students will orally compare/contrast the benefits of local vs. global scoping a
  </summary>
 
 * [Slides](https://docs.google.com/presentation/d/1bO79K3rz0xbabf-9JWLlNFqLtQksjmuDf7qilfutxwg/edit?usp=sharing)
+* [Video](https://drive.google.com/open?id=1f4kRvjzgzsxX0QNfIOy4pDkBNDx-BNXB)
 * Readings
   * [Local Scope](https://www.cs.umd.edu/~clin/MoreJava/Objects/local.html)
   * [Java Variable Scope Best Practices](https://study.com/academy/lesson/java-variable-scope-definition-best-practices.html)
