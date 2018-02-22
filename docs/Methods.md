@@ -225,6 +225,8 @@ Lab Files:
 
 [**Check for Understanding**](https://blake.instructure.com/courses/1757/quizzes/3248)
 
+To re-take the quiz on conditional statements **complete** the lab if you have not done so already.  You may re-take the quiz after finishing and submitting the lab.  **Alternatively** you may use the quizlet for practice and retake the quiz after receiving 80% or higher on the quizlet test.
+
 ***
 
 ## String Methods
