@@ -27,3 +27,10 @@ Algorithms must always be:
 To develop algorithm design, consider the ice cream or WIFI coverage problem:  A town wants to grant access to icecream to all citizens. What is the minimum number of access points needed to give everyone coverage?  The details of this problem (using WiFi instead of icecream) is available [here](https://docs.google.com/document/d/1npOrwCrM80LCXMgRYGM6V-gNm-pbpIp9KBUca2P5AMs/edit?usp=sharing)
 
 ## Sorting Cards
+Students will define their own algorithms for sorting cards using the commands swap, shift, and compare.  They will evaluate the sorting algorithms in the room for efficiency as defined by "the algorithm with the minimum number of moves".
+
+Some sorting algorithms are better in different.  To see a visualization of different sorting algorithms check out [sorting.at](http://sorting.at/).
+
+## Arrays and Sorting
+Students will create an algorithm in Java that leverages Arrays to store a list of information.  
+
