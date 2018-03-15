@@ -32,5 +32,22 @@ Students will define their own algorithms for sorting cards using the commands s
 Some sorting algorithms are better in different.  To see a visualization of different sorting algorithms check out [sorting.at](http://sorting.at/).
 
 ## Arrays and Sorting
-Students will create an algorithm in Java that leverages Arrays to store a list of information.  
+Students will create an algorithm in Java that leverages Arrays to store a list of information.
 
+<details>
+ <summary>Resources
+ </summary>
+ 
+* [Arrays](http://www.fredosaurus.com/notes-java/data/arrays/arrays.html)
+* [Practice Coding](http://codingbat.com/java/Array-1)
+* Videos (external - not created by Ms. Burton)
+  * [Conceptual Introduction to Arrays](https://youtu.be/myWNqAD5j4g)
+  * [Initializing an array in Java](https://youtu.be/H2pNneCfbok)
+  * [Merging the conceptual and the Java](https://youtu.be/YfSUDW4IasE)
+  
+</details>
+**Lab:** What is the minimum age someone must be in order to buy a gun?  Write a program that takes a list of ages and outputs a median age. The array you must use is below:
+
+[18, 18, 18, 21, 18, 25, 21, 18, 18, 18, 16, 10000, 99, 18, 25, 10000]
+
+[**Submit Lab**](https://blake.instructure.com/courses/1757/assignments/68962)
