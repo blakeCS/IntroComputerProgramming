@@ -4,8 +4,8 @@
 2. Sorting Cards - Mar 9st
 3. Arrays and Sorting - Mar 12th
 4. ArrayList and Scanner - Mar 13th
-5. The For Each Loop - Mar 15th
-6. Quiz: Input, Arrays, and Sorting - Mar 16th
+5. Quiz: Input, Arrays, and Sorting - Mar 16th
+6. The For Each Loop - April 2nd
 7. Boxcar and Freight Train - April 9th
 8. 2 Dimensional Arrays - April 13th
 9. Picture Lab - April 20th
@@ -51,3 +51,34 @@ Students will create an algorithm in Java that leverages Arrays to store a list 
 [18, 18, 18, 21, 18, 25, 21, 18, 18, 18, 16, 10000, 99, 18, 25, 10000]
 
 [**Submit Lab**](https://blake.instructure.com/courses/1757/assignments/68962)
+
+## ArrayList and Scanner
+Students will implement a scanner to accept user input in to a program and store that information in an ArrayList.
+
+<details>
+ <summary>Resources
+ </summary>
+
+* [ArrayList](https://www.javatpoint.com/java-arraylist)
+* [ArrayList and example Program](https://beginnersbook.com/2013/12/java-arraylist/)
+
+</details>
+
+**Lab:** Create a program that accepts positive numeric input from the user and stores it in an ArrayList.  Your program should stop collecting numbers when the user inputs a negative number. (And should indicate this to the user).
+
+After the list has been completed, sort the numbers and print them to the user in order (min to max).
+
+[**Submit Lab**](https://blake.instructure.com/courses/1757/assignments/69662)
+
+## Quiz: Input, Arrays, and Sorting
+Students will write a single program to solve the problem provided. For this quiz, I ENCOURAGE you to use Dr. Java in another window, and copy and paste your work in to the solution in this window.
+
+## The For Each Loop - April 2nd
+
+## Boxcar and Freight Train - April 9th
+
+## 2 Dimensional Arrays - April 13th
+
+## Picture Lab - April 20th
+
+## Checkers - April 30th
