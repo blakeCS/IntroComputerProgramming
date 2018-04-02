@@ -1,4 +1,4 @@
-public class Student_Runner_FreightTrain {
+public class StudentFreightTrainRunner {
 
     public static void main(String[] args) {
       System.out.println("1. Test the default constructor FreightTrain()");
