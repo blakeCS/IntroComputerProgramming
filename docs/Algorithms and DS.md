@@ -5,8 +5,8 @@
 3. Arrays and Sorting - Mar 12th
 4. ArrayList and Scanner - Mar 13th
 5. Quiz: Input, Arrays, and Sorting - Mar 16th
-6. The For Each Loop - April 2nd
-7. Boxcar and Freight Train - April 9th
+6. The For Each Loop - April 5th
+7. Boxcar and FreightTrain - April 6th
 8. 2 Dimensional Arrays - April 13th
 9. Picture Lab - April 20th
 10. Checkers - April 30th
