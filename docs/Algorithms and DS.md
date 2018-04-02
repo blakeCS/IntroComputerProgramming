@@ -73,9 +73,15 @@ After the list has been completed, sort the numbers and print them to the user i
 ## Quiz: Input, Arrays, and Sorting
 Students will write a single program to solve the problem provided. For this quiz, I ENCOURAGE you to use Dr. Java in another window, and copy and paste your work in to the solution in this window.
 
-## The For Each Loop - April 2nd
+## The For Each Loop - April 5th
 
-## Boxcar and Freight Train - April 9th
+
+## Boxcar and FreightTrain - April 6th
+Students will return after spring break to a review project which asks them to create two classes and methods that work together.  You will have time to complete this assignment in class Monday and Tuesay however it is not due until Friday.
+
+[Boxcar](https://docs.google.com/document/d/1f7U0nPSLAaqQIPHoVisHRYj0D46y0CYm3xldqOSw9PY/edit?usp=sharing)
+
+[FreightTrain](https://docs.google.com/document/d/1b6EtSUEjp2DqxwwRVcSMD_gCA-o0JXjlluRSdE9oD_s/edit?usp=sharing)
 
 ## 2 Dimensional Arrays - April 13th
 
