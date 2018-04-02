@@ -83,6 +83,17 @@ Students will return after spring break to a review project which asks them to c
 
 [FreightTrain](https://docs.google.com/document/d/1b6EtSUEjp2DqxwwRVcSMD_gCA-o0JXjlluRSdE9oD_s/edit?usp=sharing)
 
+**Rubric**
+
+**Program (25 pts EACH)** | **Excellent** | **Good** | **Approaching** | **Poor/Incomplete**
+:--:|:--:|:--:|:--:|:--:|
+Program Execution | Program executes correctly with no syntax or runtime errors  | | Program executes correctly with minor (easily fixed) errors | Program does not execute
+Correct Output | Program displays correct output with no errors and passes all test cases (within Ms. Burton's test class) (25)| Output has minor errors | Output has multiple errors | Output is incorrect
+Design of Logic | Program is logically well designed | Program has slight logic errors that do not significantly affect the results | Program has significant logic errors | program is incorrect 
+Standards | Program is stylistically well designed | Few inappropriate design choices (ie. porr variable names, improper indentation) | Program includes several inappropriate design chocies  | Program is poorly written 
+Documentation | Program is well documented | Missing one required comment | Missing two or more required comments | Most or all documentation missing 
+
+
 ## 2 Dimensional Arrays - April 13th
 
 ## Picture Lab - April 20th
